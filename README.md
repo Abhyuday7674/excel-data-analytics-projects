@@ -31,4 +31,4 @@ using real-world retail datasets.
 - Descriptive Statistics & Probability Analysis
 - Business Insight & Data Storytelling
 
-📌 These projects are designed to be recruiter-friendly and interview-ready.
+
